@@ -10,6 +10,8 @@ PTM : Personal Time Management
 
 PMM : Personal Money Management
 
+PBM : Personal Backup Management
+
 * Personal Dropbox Management
 * Personal Evernote Management
 * Personal Bookmark Management
