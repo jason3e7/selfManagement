@@ -5,9 +5,11 @@ Rules for Rulemaking
 ----------------------
 1. Simple(limit 9 by memory) 
 2. Order(priority)(number small is better)
-3. Cycle(Not perfect)(Version)
-4. Naming
-5. 3levels
+3. Define(Naming)
+4. Cycle(Not perfect)(Version)(Develop)
+5. User-friendly
+6. 3levels
+7. Modulize
 
 =temp=
 https://www.wikiwand.com/en/Rulemaking#/Rules_for_Rulemaking
