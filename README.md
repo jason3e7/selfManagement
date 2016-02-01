@@ -1,3 +1,5 @@
+PIM : Personal Information Management
+
 PKM : Personal Knowledge Management
 
 PFM : Personal File Management
